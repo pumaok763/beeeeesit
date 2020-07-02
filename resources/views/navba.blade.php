@@ -47,7 +47,7 @@
                         </div>
                     </li>
                     <li >
-                        <a class="hvr-underline-reveal ">Нормативная документация</a>
+                        <a class="hvr-underline-reveal ">Нормативнаfя документация</a>
                     </li>
                     <li class="uk-parent">
                         <a uk-icon="icon:  triangle-down">Клиентам
