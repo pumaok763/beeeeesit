@@ -41,7 +41,7 @@
                                     <a href="https://crb-dnr.ru/about/icb-instruction">Инструкция "Клиент Банк"</a>
                                 </li>
                                 <li>
-                                    <a href="https://crb-dnr.ru/about/contacts">Контакты</a>
+                                    <a href="https://crb-dnr.ru/about/contacts">Коjнтакты</a>
                                 </li>
                             </ul>
                         </div>
