@@ -32,7 +32,7 @@
                                     <a href="https://crb-dnr.ru/about/management">Руководствоj</a>
                                 </li>
                                 <li>
-                                    <a href="https://crb-dnr.ru/about/personal">Вакансии</a>
+                                    <a href="https://crb-dnr.ru/about/personal">Вакasdансии</a>
                                 </li>
                                 <li>
                                     <a href="https://crb-dnr.ru/about/press-center">Пресс служба</a>
